@@ -12,7 +12,7 @@ PS2
     * Channels: 2
     * Interleave: 0x800 bytes
     * Offset: 0x33296800 bytes
-* XeNTaX thread: forum.xentax.com/viewtopic.php?f=17&t=7258
+* [XeNTaX thread](forum.xentax.com/viewtopic.php?f=17&t=7258)
 
 ### SOUNDS.PAK ###
 * Divided into blocks, each starting with 'WAVEBK11'
@@ -48,8 +48,8 @@ PS2
     * According to distortedximage on xentax, they're in mib format
 * 50? streams
 
-* A couple other tracks in interface block
-    * Arcade jingles and spider eggs (which isn't missing from the music block. I think this version plays when you adjust the music volume)
+* Arcade jingles and Spider Eggs in interface block
+    * Spider Eggs isn't missing from music block. I think this plays when you adjust music volume.
 * Club, pizzaria music in ambient block; maybe more
 
 ### PAK format ###
@@ -59,20 +59,24 @@ also seem to be the same file.
 
 PAK archives store files in a directory-data format. They begin with:
 
+```
 Offset  Size    Description
 0x0     24      0B 00 00 00 D6 03 00 00 33 03 00 00
                 97 01 00 00 00 00 00 00 30 00 00 00
 0x18    uint16  offset of 1st file
 0x4C    uint8   number of files
 0x258           directory
+```
 
 The directory consists of 40B entries, each one looking like this:
 
+```
 Offset  Size    Description
 +0x0    31      file name
 +0x1f   1       unknown (might indicate file type; 19 in SOUNDS, 1A in MOVIES)
 +0x20   uint32  file offset (from start of 1st file)
 +0x24   uint32  file length
+```
 
 The files in MOVIES.PAK start out with the signature 'ipum' and the rest, I
 assume, is compressed video. In SOUNDS.PAK, the files are archives themselves,
@@ -82,6 +86,7 @@ format from PAKs, in which the directory is split up between track info, and
 names. Blocks can have one of two headers, but if you'll notice, everything
 needed to extract the audio is in the same place:
 
+```
 Offset  Size    Description
 +0x0    8       file signature 'WAVEBK11'
 +0x10   uint32  data offset (from start of block)
@@ -94,9 +99,11 @@ Offset  Size    Description
 +0x64   uint32  label offset
 +0x68   156     unknown (padding?)
 +0x104          track info
+```
 
 or
 
+```
 Offset  Size    Description
 +0x0    8       file signature 'WAVEBK11'
 +0x8    8       padding
@@ -110,9 +117,11 @@ Offset  Size    Description
 +0x64   uint32  label offset
 +0x68   156     unknown (padding?)
 +0x104          track info
+```
 
 In the info part of the directory, each track gets a 40B entry:
 
+```
 Offset  Size    Description
 +0x0    4       unknown, starts with 0x04
 +0x4    uint32  track length (in bytes obviously, not seconds)
@@ -121,6 +130,7 @@ Offset  Size    Description
 +0x18   uint32  track offset
 +0x1c   uint32  sample rate
 +0x20   8       unknown
+```
 
 The name part is a series of null-terminated strings. As best I can tell,
 there's always 1 more label than there are tracks, the 2nd label being a
