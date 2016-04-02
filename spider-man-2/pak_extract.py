@@ -147,6 +147,7 @@ def parseBlockDir(pak, block):
     'offset' -- offset of track's first byte
     'length' -- track length in bytes
     'rate' -- sample rate of the track
+    'channels' -- number of channels in track
     """
 
     # get number of tracks
@@ -166,7 +167,9 @@ def parseBlockDir(pak, block):
         track = {}
 
         # read track info
-        pak.seek(infoPos+0x4)
+        pak.seek(infoPos+0x2)
+        if readInt16(pak) == 0: track['channels'] = 1
+        else: track['channels'] = 2
         track['length'] = readInt32(pak)
         pak.seek(0x10, 1)
         track['offset'] = readInt32(pak)+block['offset']
@@ -234,7 +237,7 @@ def ss2Header(track):
             0x18,
             0x10,
             track['rate'],      # sample rate
-            2,                  # channels
+            track['channels'],  # channels
             0x800,              # interleave
             0,
             0xffffffff,         # disable loop
