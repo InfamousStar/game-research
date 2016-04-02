@@ -63,7 +63,7 @@ Music locations
         * msg lobby
         * mysterio apt
         * pizza shop (what is this song called?)
-* FLYTHROUGH in misc block
+* FLYTHROUGH, ac64 Mysterio exp in misc block
 * Cutscene music (w/ voice and sfx) in STREAMS_SCENE_EN
     * Spidey's girl
     * Final battle
