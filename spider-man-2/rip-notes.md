@@ -108,3 +108,31 @@ Music locations
     * sa27 Final battle
     * X-Men PAL
     * X-Men
+
+Music notes
+-----------
+* Orchestra tracks @ 48kHz
+* KMFDM tracks @ 44.1kHz
+* Finiculi @ 32kHz
+* Most tracks have a bit of silence at the end that messes up looping
+    * I think this is because of the buffer size
+* BC Chase 1 and 1b both work with ending 1
+* Swing 2 loop 1 doesn't go with the ending
+    * loop 2 doesn't go with the intro
+* Swing us happy seems to have looping error within track, near beginning (replace w/ to the statue?)
+* To the Statue is edit of swing us happy
+* Finiculi jumps up a M3 as time runs out in-game
+    * no slow-mo ending in files
+* Hung Like a Spider loop 2 has intro
+    * Ending goes w/ this intro
+* Karacho's ending sounds ""
+* Spider Eggs loop 2 has intro
+* Mysterio doesn't loop well
+* Ock Fight loop 1 is short version
+    * loop 2 has intro
+    * loop 3 is long version
+    * ending is last timp hit of loop 3 w/ longer decay
+* MP3 releases of KMFDM tracks
+    * Pandemonium has longer intro
+    * Suctioncups swaps start and end
+    * Hung Like a Spider doubles intro
