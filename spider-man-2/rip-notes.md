@@ -138,3 +138,8 @@ Music notes
     * Suctioncups swaps start and end
     * Hung Like a Spider doubles intro
     * No song has an ending; they just cut off
+* Credits contains 4 songs:
+   * The Distillers' Spider-Man Theme
+   * A version of Swing 1 with an ending
+   * The Distillers - Beat Your Heart Out
+   * A shortened version of BC Chase 2
