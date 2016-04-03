@@ -132,7 +132,9 @@ Music notes
     * loop 2 has intro
     * loop 3 is long version
     * ending is last timp hit of loop 3 w/ longer decay
+* Thumpy is just a loop of the start of Karacho
 * MP3 releases of KMFDM tracks
     * Pandemonium has longer intro
     * Suctioncups swaps start and end
     * Hung Like a Spider doubles intro
+    * No song has an ending; they just cut off
