@@ -158,4 +158,6 @@ Where songs appear in-game
 * bc chase 1
 * swing 1 full (pics for robbie)
 * Arachnophiliac (rhino fight)
-* https://youtu.be/3mRM6uZ9jJ0?t=32m41s
+* Swing 2-1 (right before you get to ock's apt)
+* sa04 Meet Octavius
+* https://youtu.be/3mRM6uZ9jJ0?t=32m41://youtu.be/3mRM6uZ9jJ0?t=42m5s
