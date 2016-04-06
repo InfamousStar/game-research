@@ -143,3 +143,19 @@ Music notes
    * A version of Swing 1 with an ending
    * The Distillers - Beat Your Heart Out
    * A shortened version of BC Chase 2
+
+Where songs appear in-game
+--------------------------
+* Flythrough
+* a67 spidey's girl
+* Opening Movie
+* Swing 1 short (to dr connor's class)
+* Suctioncups (briefcase fight)
+* Spider Eggs (going to meet mj)
+* ??? (mj has a bf)
+* Kaboom (art thieves)
+* sa02 hello bc
+* bc chase 1
+* swing 1 full (pics for robbie)
+* Arachnophiliac (rhino fight)
+* https://youtu.be/3mRM6uZ9jJ0?t=32m41s
