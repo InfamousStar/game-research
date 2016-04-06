@@ -108,19 +108,3 @@ Music locations
     * sa27 Final battle
     * X-Men PAL
     * X-Men
-
-Where songs appear in-game
---------------------------
-* Flythrough
-* a67 spidey's girl
-* Opening Movie
-* Swing 1 short (to dr connor's class)
-* Suctioncups (briefcase fight)
-* Spider Eggs (going to meet mj)
-* ??? (mj has a bf)
-* Kaboom (art thieves)
-* sa02 hello bc
-* bc chase 1
-* swing 1 full (pics for robbie)
-* Arachnophiliac (rhino fight)
-* https://youtu.be/3mRM6uZ9jJ0?t=32m41s
