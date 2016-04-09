@@ -152,7 +152,7 @@ Where songs appear in-game
 * Swing 1 short (to dr connor's class)
 * Suctioncups (briefcase fight)
 * Spider Eggs (going to meet mj)
-* ??? (mj has a bf)
+* ac92 Hello BC (mj has a bf)
 * Kaboom (art thieves)
 * sa02 hello bc
 * bc chase 1
@@ -160,4 +160,69 @@ Where songs appear in-game
 * Arachnophiliac (rhino fight)
 * Swing 2-1 (right before you get to ock's apt)
 * sa04 Meet Octavius
-* https://youtu.be/3mRM6uZ9jJ0?t=32m41://youtu.be/3mRM6uZ9jJ0?t=42m5s
+* BC Chase 1b
+* sa07 black cat jewelry
+* thumpy (beck stadium foyer)
+* ac80 qb triathlon
+* organ music charge 1
+* organ music charge 2
+* ac97 qb triathlon
+* sa08 pride octavius
+* swing 1 full (get to mj's play)
+* arachnophiliac (picked a bad night)
+* sa09 miss play
+* BC Chase 1
+* ac72 catthief
+* Arachnophiliac (fighting art thieves)
+* MNC (enter mysterio)
+* Swing 2-2
+* ac64 Mysterio Exp
+* Mysterio
+* Swing 2-1
+* To the Statue
+* Mysterio
+* ac79 war world
+* bg mysterio apt int
+* reactor explosion
+* vertical dilemma
+* Webhed (mysterio robo ambush)
+* sa10 birthliz/a/birth of lizard
+* sa10 birthliz b
+* sa12 doc ock bank
+* ock fight 1
+* ac77 doc ock bank
+* hung like a spider 2 (fighting ock's goons)
+* silhouettes (chasing the chopper)
+* swing 1 (right outside peter's apt)
+* sa15 proposal
+* BC Chase 2
+* karacho (shocker fight)
+* sa16 hello shock
+* ac93 poor quentin
+* sa17 bye shock a
+* bc chase 2
+* Karacho (shocker fight again)
+* swing 2-2 (mj's play again)
+* swing 1 (bc's at the chrysler building)
+* bc chase 2
+* sa20 cat fun
+* Hairy legs
+* swing 2-2 (need to have a talk w/ bc)
+* sa21 bc breakup a
+* swing 2-2 (mj love confession)
+* sa22 bc breakup b
+* sa23 harry sells soul
+* swing 2-1 (to mj's diner)
+* sa24 train fight
+* swing 2-2
+* sa25 train fight
+* ock fight 1
+* sa26 train fight c
+* sa26 train fight d
+* swing 2-1
+* sa27 final battle
+* vertical dilemma
+* ac69 final bat
+* ock fight 2
+* finale
+* credits
