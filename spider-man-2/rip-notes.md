@@ -65,49 +65,6 @@ Music locations
         * pizza shop (what is this song called?)
 * FLYTHROUGH, ac64 Mysterio exp in misc block
 * Cutscene music (w/ voice and sfx) in STREAMS_SCENE_EN
-    * Spidey's girl
-    * Final battle
-    * Cat thief
-    * Doc Ock bank ac77
-    * War world
-    * QB Triathlon ac80
-    * Hello BC ac92
-    * Poor Quentin
-    * QB Triathlon ac97
-    * Attract 1
-    * Attract 2
-    * Attract
-    * Credits (no sfx yay!)
-    * Finale
-    * Hello
-    * MNC
-    * Opening Movie
-    * Reactor Explosion
-    * Peter Bday
-    * Hello BC SA02
-    * Meet Octavius
-    * Black Cat Jewelry
-    * Pride Octavius
-    * Miss play
-    * Birth Liz A
-    * Birth Liz B
-    * Birth Liz sa10
-    * Birth of Lizard
-    * sa12 Doc Ock Bank
-    * sa15 Proposal
-    * sa16 Hello Shock
-    * sa17 Bye Shock A
-    * sa20 Cat fun
-    * sa21 BC breakup A
-    * sa22 BC breakup B
-    * sa23 Harry sells soul
-    * sa24 Train fight
-    * sa25 Train fight
-    * sa26 Train fight C
-    * sa26 Train fight D
-    * sa27 Final battle
-    * X-Men PAL
-    * X-Men
 
 Music notes
 -----------
@@ -226,3 +183,104 @@ Where songs appear in-game
 * ock fight 2
 * finale
 * credits
+
+Cues and cutscenes
+------------------
+* Flythrough - Flythrough
+* ac67 - Flythrough (end), More Girl Trouble (start)
+* Opening Movie - Opening`(Swing?)
+* ac92 - Love theme (short) + tension
+* sa02 - Hello BC
+* sa04 - Meeting Octavius
+* sa07 - BC convo 1
+* ac80 - Thumpy, Charge, Thumpy
+* ac97 - Mysterio (excerpt)
+* sa08 - Octavius' Pride
+* sa09 - Spidey's Girl Trouble
+* ac72 - Hello BC (start)
+* mnc - Mysterio (start)
+* ac64 - Theremin
+* ac79 - Flythrough (excerpts)
+* Reactor Explosion - Reactor Explosion
+* sa10a - Birth of Lizard
+* sa10b - Pete Finds Connors
+* sa12 - Ock's Bank Robbery
+* ac77 - Ock fight 2 (start)
+* sa15 - More Girl Trouble (Only one spider-man?)
+* sa16 - BC Gets Shocked
+* ac93 - theremin
+* sa17 - Spidey vs JJ
+* sa20 - Hello BC (excerpts)
+* sa21 - Breaking up w/ BC
+* sa22 - Love theme
+* sa23 - Harry Sells His Soul
+* sa24 - The Diner
+* sa25 - Ock Boards a train
+* sa26c&d - Spidey Stops a Train, Harry's revelation
+* sa27 - Ock's reactor, Ock's presence
+* ac69 - Harry Sells His Soul (excerpts)
+* finale - Octavius Dies, PP and MJ, MJ chooses PP
+* credits - Spider-Man Theme, Swing 1, Beat Your Heart Out, BC Chase 2
+
+* sa25, 0:11-0:16 is from sa23
+
+Tentative tracklist
+-------------------
+* 'Overture' from flythrough
+* 'The City's Been Quiet Lately' from openingmovie
+* 'Suctioncups' from mx_suctioncups
+* 'Spider Eggs' from mx_spidereggs_loop, "ending
+* 'MJ has a Boyfriend' from ac92
+* 'Kaboom' from mx_kaboom, "end
+* 'Hello Black Cat' from sa02, ac72, sa20
+* 'Black Cat Chase 1' from mx_bcchase1..., mx_bcchase_ending1
+* 'Swing From a Thread' from credits
+* 'Arachnophiliac' from mx_arachnophiliac
+* 'Meeting Octavius' from sa04
+* 'Black Cat Chase 2' from mx_bcchase1b_intro, "loop, mx_bcchase_ending1
+* 'Black Cat Crossed Your Path' from sa07
+* 'Octavius' Pride' from sa08
+* 'Peeping Tom Routine' from sa09
+* 'Mysterio' from mx_mysterio_loop
+* 'Take a Look Overhead (ver. 2)' from mx_swing2_loop2
+* 'Take a Look Overhead (ver. 1)' from mx_swing2_intro, "loop1
+* 'Reactor Explosion' from reactorexplosion
+* 'Vertical Dilemma' from mx_verticaldilemma
+* 'Webhed' from mx_webhed
+* 'Enter Doc Ock' from sa10a, b
+* 'Hung Like a Spider' from mx_hunglikeaspider_loop2
+* 'Silhouettes' from mx_silhouettes
+* 'He Threw a Football on the Moon' from sa15
+* 'Black Cat Chase 3' from credits
+* 'Karacho' from mx_karacho_loop, "end
+* 'Black Cat Gets Shocked' from sa16
+* 'Spidey vs JJ' from sa17
+* 'Take a Look Overhead (ver. 2)' from mx_swing2_loop2
+* 'Hairy Legs' from mx_hairylegs_loop, "end
+* 'Breaking Up With Cat' from sa21
+* 'Confessing to Mary Jane' from sa22
+* 'Harry Sells His Soul' from sa23, sa25
+* 'Mary Jane Kidnapped' from sa24
+* 'Ock Boards a Train' from sa25
+* 'Harry's Revelation' from sa26c, d
+* 'Ock's Masterpiece Recreated' from sa27
+* 'Ock Fight' from mx_ockfight_loop1, "loop2, "end
+* 'Octavius Dies' from finale
+* 'Peter Lets MJ Go' from finale
+* 'Go Get 'em, Tiger' from finale
+* 'Theme From Spider-Man' from credits
+* 'Beat Your Heart Out' from credits
+* 'Pandemonium' from mx_pandemonium
+* 'Web of Intrigue' from mx_webofintrigue
+* 'Hello' from hello
+* 'Alba Club Music' from bg_club_alba_int
+* 'Redeye Club Music' from bg_club_redeye_int
+* 'Latin Club Music' from bg_club_latin_int
+* 'Funiculi, Funicula' from mx_finiculi
+* 'Tarantella Napolitana' from bg_pizzashop_int
+* 'Charge! (Ver. 1)' from s10_organmusic_charge_1
+* 'Charge! (Ver. 2)' from s10_organmusic_charge_2
+* 'Theremin Blast 1' from mx_thereminblast_1
+* 'Theremin Blast 2' from ac64
+* 'Arcade Start' from arc_music_startgame
+* 'Arcade Game Over' from arc_music_gameover
